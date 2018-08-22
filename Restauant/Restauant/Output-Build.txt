@@ -1,0 +1,7 @@
+﻿1>------ Rebuild All started: Project: Restauant, Configuration: Debug Any CPU ------
+1>C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\report\sale_invoice.rdlc : warning rsOverlappingReportItems: The text box ‘Textbox40’ and the text box ‘Textbox41’ overlap. Overlapping report items are not supported in all renderers.
+1>C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\report\sale_invoice.rdlc : warning rsOverlappingReportItems: The text box ‘Textbox38’ and the text box ‘Textbox39’ overlap. Overlapping report items are not supported in all renderers.
+1>C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\report\sale_invoice.rdlc : warning rsOverlappingReportItems: The text box ‘Textbox36’ and the text box ‘Textbox37’ overlap. Overlapping report items are not supported in all renderers.
+1>C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\report\sale_invoice.rdlc : warning rsOverlappingReportItems: The text box ‘Textbox29’ and the text box ‘Textbox30’ overlap. Overlapping report items are not supported in all renderers.
+1>  Restauant -> C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\bin\Debug\Restauant.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========

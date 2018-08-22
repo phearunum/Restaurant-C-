@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="report_by_day" targetNamespace="http://tempuri.org/report_by_day.xsd" xmlns:mstns="http://tempuri.org/report_by_day.xsd" xmlns="http://tempuri.org/report_by_day.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="report_by_day" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="report_by_day" msprop:Generator_UserDSName="report_by_day">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="report_by_day" msprop:Generator_TableClassName="report_by_dayDataTable" msprop:Generator_TableVarName="tablereport_by_day" msprop:Generator_TablePropName="_report_by_day" msprop:Generator_RowDeletingName="report_by_dayRowDeleting" msprop:Generator_RowChangingName="report_by_dayRowChanging" msprop:Generator_RowEvHandlerName="report_by_dayRowChangeEventHandler" msprop:Generator_RowDeletedName="report_by_dayRowDeleted" msprop:Generator_UserTableName="report_by_day" msprop:Generator_RowChangedName="report_by_dayRowChanged" msprop:Generator_RowEvArgName="report_by_dayRowChangeEvent" msprop:Generator_RowClassName="report_by_dayRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="rep_id" msprop:Generator_ColumnVarNameInTable="columnrep_id" msprop:Generator_ColumnPropNameInRow="rep_id" msprop:Generator_ColumnPropNameInTable="rep_idColumn" msprop:Generator_UserColumnName="rep_id" type="xs:string" minOccurs="0" />
+              <xs:element name="rep_date" msprop:Generator_ColumnVarNameInTable="columnrep_date" msprop:Generator_ColumnPropNameInRow="rep_date" msprop:Generator_ColumnPropNameInTable="rep_dateColumn" msprop:Generator_UserColumnName="rep_date" type="xs:string" minOccurs="0" />
+              <xs:element name="rep_by" msprop:Generator_ColumnVarNameInTable="columnrep_by" msprop:Generator_ColumnPropNameInRow="rep_by" msprop:Generator_ColumnPropNameInTable="rep_byColumn" msprop:Generator_UserColumnName="rep_by" type="xs:string" minOccurs="0" />
+              <xs:element name="sub_amount" msprop:Generator_ColumnVarNameInTable="columnsub_amount" msprop:Generator_ColumnPropNameInRow="sub_amount" msprop:Generator_ColumnPropNameInTable="sub_amountColumn" msprop:Generator_UserColumnName="sub_amount" type="xs:string" minOccurs="0" />
+              <xs:element name="dis_amount" msprop:Generator_ColumnVarNameInTable="columndis_amount" msprop:Generator_ColumnPropNameInRow="dis_amount" msprop:Generator_ColumnPropNameInTable="dis_amountColumn" msprop:Generator_UserColumnName="dis_amount" type="xs:string" minOccurs="0" />
+              <xs:element name="total_amount" msprop:Generator_ColumnVarNameInTable="columntotal_amount" msprop:Generator_ColumnPropNameInRow="total_amount" msprop:Generator_ColumnPropNameInTable="total_amountColumn" msprop:Generator_UserColumnName="total_amount" type="xs:string" minOccurs="0" />
+              <xs:element name="IQName" msprop:Generator_ColumnVarNameInTable="columnIQName" msprop:Generator_ColumnPropNameInRow="IQName" msprop:Generator_ColumnPropNameInTable="IQNameColumn" msprop:Generator_UserColumnName="IQName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,432 @@
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\bin\Debug\Contets\icon_pos.ico
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\bin\Debug\Restauant.exe.config
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\bin\Debug\Restauant.exe.manifest
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\bin\Debug\Restauant.application
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\bin\Debug\Restauant.exe
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\bin\Debug\Restauant.pdb
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.AllReport.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.bookTable.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.calulator.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.CheckOut.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.close_asking.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.Day_end_sale.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.discount.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.discount_insert.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.employee.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.LoginForm.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_category.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_floor.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_menu.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_Table.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.frm_custom_order.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.Inventory.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.NewCustomer.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.NewOrder.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.POS.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.position.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.Product_Category.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.Properties.Resources.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.Advance_Report.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.employee_report_sale.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.printInvoice.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.product_report_sale.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.report_by_day.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.report_by_item.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.sale_detail_today.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.Suppliyer.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.csproj.GenerateResource.Cache
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\RdlCompile.cache
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\RdlCompile.compiled
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.exe.manifest
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.application
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.exe
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.pdb
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.TestButton.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.addDiscount.resources
+C:\Users\IT\Downloads\Restauant\Restauant\Restauant\obj\Debug\Restauant.csprojResolveAssemblyReference.cache
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\bin\Debug\Contets\icon_pos.ico
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\bin\Debug\Restauant.exe.config
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\bin\Debug\Restauant.exe.manifest
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\bin\Debug\Restauant.application
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\bin\Debug\Restauant.exe
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\bin\Debug\Restauant.pdb
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.addDiscount.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.AllReport.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.bookTable.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.calulator.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.CheckOut.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.close_asking.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.Day_end_sale.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.discount.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.discount_insert.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.employee.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.LoginForm.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_category.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_floor.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_menu.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_Table.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.frm_custom_order.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.Inventory.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.NewCustomer.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.NewOrder.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.POS.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.position.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.Product_Category.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.Properties.Resources.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.Advance_Report.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.employee_report_sale.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.printInvoice.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.product_report_sale.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.report_by_day.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.report_by_item.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.sale_detail_today.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.Suppliyer.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.TestButton.resources
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.csproj.GenerateResource.Cache
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\RdlCompile.cache
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\RdlCompile.compiled
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.exe.manifest
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.application
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.exe
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.pdb
+C:\Users\Phearun Um\Music\Restauant\Restauant\Restauant\obj\Debug\Restauant.csprojResolveAssemblyReference.cache
+D:\POS\Restauant\Restauant\bin\Debug\Restauant.exe.config
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.exe
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.pdb
+D:\POS\Restauant\Restauant\bin\Debug\Contets\icon_pos.ico
+D:\POS\Restauant\Restauant\bin\Debug\Restauant.exe.manifest
+D:\POS\Restauant\Restauant\bin\Debug\Restauant.application
+D:\POS\Restauant\Restauant\bin\Debug\Restauant.exe
+D:\POS\Restauant\Restauant\bin\Debug\Restauant.pdb
+D:\POS\Restauant\Restauant\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\POS\Restauant\Restauant\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\POS\Restauant\Restauant\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\POS\Restauant\Restauant\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\POS\Restauant\Restauant\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\POS\Restauant\Restauant\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\POS\Restauant\Restauant\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\POS\Restauant\Restauant\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\POS\Restauant\Restauant\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\POS\Restauant\Restauant\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\POS\Restauant\Restauant\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\POS\Restauant\Restauant\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.csprojResolveAssemblyReference.cache
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.addDiscount.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.AllReport.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.bookTable.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.calulator.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.CheckOut.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.close_asking.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.Day_end_sale.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.discount.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.discount_insert.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.employee.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.LoginForm.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.form_category.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.form_floor.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.form_menu.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.form_Table.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.frm_custom_order.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.Inventory.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.NewCustomer.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.NewOrder.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.POS.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.position.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.Product_Category.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.Properties.Resources.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.report.Advance_Report.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.report.employee_report_sale.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.report.printInvoice.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.report.product_report_sale.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.report.report_by_day.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.report.report_by_item.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.report.sale_detail_today.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.Suppliyer.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.TestButton.resources
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.csproj.GenerateResource.Cache
+D:\POS\Restauant\Restauant\obj\Debug\RdlCompile.cache
+D:\POS\Restauant\Restauant\obj\Debug\RdlCompile.compiled
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.exe.manifest
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.application
+D:\POS\Restauant\Restauant\obj\Debug\Restauant.fexchange.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.addDiscount.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.AllReport.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.bookTable.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.calulator.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.CheckOut.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.close_asking.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.Day_end_sale.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.discount.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.discount_insert.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.employee.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.fexchange.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.LoginForm.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.form_category.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.form_floor.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.form_menu.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.form_Table.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.fPayment.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.frm_custom_order.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.fThankyou.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.Inventory.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.messange.voidInvoice.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.NewCustomer.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.NewOrder.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.POS.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.position.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.Product_Category.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.Properties.Resources.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.report.Advance_Report.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.report.employee_report_sale.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.report.printInvoice.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.report.product_report_sale.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.report.report_by_day.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.report.report_by_item.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.report.sale_detail_today.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.Suppliyer.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.TestButton.resources
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.csproj.GenerateResource.Cache
+E:\Client Server\Restauant\Restauant\obj\Debug\RdlCompile.cache
+E:\Client Server\Restauant\Restauant\obj\Debug\RdlCompile.compiled
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.frmCategorylist.resources
+E:\Client Server\Restauant\Restauant\bin\Debug\Restauant.exe.config
+E:\Client Server\Restauant\Restauant\bin\Debug\Contets\icon_pos.ico
+E:\Client Server\Restauant\Restauant\bin\Debug\Restauant.exe.manifest
+E:\Client Server\Restauant\Restauant\bin\Debug\Restauant.application
+E:\Client Server\Restauant\Restauant\bin\Debug\Restauant.exe
+E:\Client Server\Restauant\Restauant\bin\Debug\Restauant.pdb
+E:\Client Server\Restauant\Restauant\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Client Server\Restauant\Restauant\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Client Server\Restauant\Restauant\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\Client Server\Restauant\Restauant\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\Client Server\Restauant\Restauant\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\Client Server\Restauant\Restauant\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\Client Server\Restauant\Restauant\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\Client Server\Restauant\Restauant\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\Client Server\Restauant\Restauant\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\Client Server\Restauant\Restauant\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\Client Server\Restauant\Restauant\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\Client Server\Restauant\Restauant\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.exe.manifest
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.application
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.exe
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.pdb
+E:\Client Server\Restauant\Restauant\obj\Debug\Restauant.csprojResolveAssemblyReference.cache
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\bin\Debug\Restauant.exe.config
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.exe
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.pdb
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\bin\Debug\Contets\icon_pos.ico
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\bin\Debug\Restauant.exe.manifest
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\bin\Debug\Restauant.application
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\bin\Debug\Restauant.exe
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\bin\Debug\Restauant.pdb
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.csprojResolveAssemblyReference.cache
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.addDiscount.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.AllReport.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.bookTable.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.calulator.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.CheckOut.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.close_asking.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.Day_end_sale.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.discount.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.discount_insert.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.employee.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.fexchange.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.LoginForm.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_category.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_floor.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_menu.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_Table.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.fPayment.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.frmCategorylist.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.frm_custom_order.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.fThankyou.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.Inventory.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.messange.voidInvoice.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.NewCustomer.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.NewOrder.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.POS.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.position.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.Product_Category.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.Properties.Resources.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.Advance_Report.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.employee_report_sale.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.printInvoice.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.product_report_sale.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.report_by_day.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.report_by_item.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.sale_detail_today.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.Suppliyer.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.TestButton.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.csproj.GenerateResource.Cache
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\RdlCompile.cache
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\RdlCompile.compiled
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.exe.manifest
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.application
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.frmCode.resources
+C:\Users\IT\Documents\Restauant\Restauant\Restauant\obj\Debug\Restauant.Config.Configuration.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\bin\Debug\Restauant.exe.config
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.exe
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.pdb
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\bin\Debug\Contets\icon_pos.ico
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\bin\Debug\Restauant.exe.manifest
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\bin\Debug\Restauant.application
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\bin\Debug\Restauant.exe
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\bin\Debug\Restauant.pdb
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.csprojResolveAssemblyReference.cache
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.addDiscount.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.AllReport.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.bookTable.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.calulator.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.CheckOut.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.close_asking.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.Config.Configuration.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.Day_end_sale.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.discount.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.discount_insert.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.employee.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.fexchange.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.LoginForm.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_category.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_floor.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_menu.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_Table.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.fPayment.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.frmCategorylist.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.frmCode.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.frm_custom_order.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.fThankyou.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.Inventory.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.messange.voidInvoice.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.NewCustomer.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.NewOrder.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.POS.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.position.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.Product_Category.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.Properties.Resources.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.Advance_Report.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.employee_report_sale.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.printInvoice.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.product_report_sale.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.report_by_day.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.report_by_item.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.sale_detail_today.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.Suppliyer.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.TestButton.resources
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.csproj.GenerateResource.Cache
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\RdlCompile.cache
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\RdlCompile.compiled
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.exe.manifest
+C:\Users\Phearun Um\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.application
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\bin\Debug\Contets\icon_pos.ico
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\bin\Debug\Restauant.exe.config
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\bin\Debug\Restauant.exe.manifest
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\bin\Debug\Restauant.application
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\bin\Debug\Restauant.exe
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\bin\Debug\Restauant.pdb
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.addDiscount.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.AllReport.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.bookTable.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.calulator.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.CheckOut.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.close_asking.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.Config.Configuration.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.Day_end_sale.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.discount.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.discount_insert.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.employee.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.fexchange.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.LoginForm.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_category.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_floor.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_menu.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.form_Table.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.fPayment.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.frmCategorylist.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.frmCode.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.frm_custom_order.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.fThankyou.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.Inventory.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.messange.voidInvoice.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.NewCustomer.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.NewOrder.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.POS.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.position.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.Product_Category.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.Properties.Resources.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.Advance_Report.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.employee_report_sale.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.printInvoice.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.product_report_sale.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.report_by_day.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.report_by_item.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.report.sale_detail_today.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.Suppliyer.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.TestButton.resources
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.csproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\RdlCompile.cache
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\RdlCompile.compiled
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.exe.manifest
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.application
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.exe
+C:\Users\TEMP\Desktop\Restauant\Restauant\Restauant\obj\Debug\Restauant.pdb

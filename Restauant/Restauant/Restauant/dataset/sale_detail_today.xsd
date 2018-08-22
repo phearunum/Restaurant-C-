@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="sale_detail_today" targetNamespace="http://tempuri.org/sale_detail_today.xsd" xmlns:mstns="http://tempuri.org/sale_detail_today.xsd" xmlns="http://tempuri.org/sale_detail_today.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="sale_detail_today" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="sale_detail_today" msprop:Generator_UserDSName="sale_detail_today">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="sale_detail_today" msprop:Generator_TableClassName="sale_detail_todayDataTable" msprop:Generator_TableVarName="tablesale_detail_today" msprop:Generator_TablePropName="_sale_detail_today" msprop:Generator_RowDeletingName="sale_detail_todayRowDeleting" msprop:Generator_RowChangingName="sale_detail_todayRowChanging" msprop:Generator_RowEvHandlerName="sale_detail_todayRowChangeEventHandler" msprop:Generator_RowDeletedName="sale_detail_todayRowDeleted" msprop:Generator_UserTableName="sale_detail_today" msprop:Generator_RowChangedName="sale_detail_todayRowChanged" msprop:Generator_RowEvArgName="sale_detail_todayRowChangeEvent" msprop:Generator_RowClassName="sale_detail_todayRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="inv_date" msprop:Generator_ColumnVarNameInTable="columninv_date" msprop:Generator_ColumnPropNameInRow="inv_date" msprop:Generator_ColumnPropNameInTable="inv_dateColumn" msprop:Generator_UserColumnName="inv_date" type="xs:string" minOccurs="0" />
+              <xs:element name="CusID" msprop:Generator_ColumnVarNameInTable="columnCusID" msprop:Generator_ColumnPropNameInRow="CusID" msprop:Generator_ColumnPropNameInTable="CusIDColumn" msprop:Generator_UserColumnName="CusID" type="xs:string" minOccurs="0" />
+              <xs:element name="item_Name" msprop:Generator_ColumnVarNameInTable="columnitem_Name" msprop:Generator_ColumnPropNameInRow="item_Name" msprop:Generator_ColumnPropNameInTable="item_NameColumn" msprop:Generator_UserColumnName="item_Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Qty" msprop:Generator_ColumnVarNameInTable="columnQty" msprop:Generator_ColumnPropNameInRow="Qty" msprop:Generator_ColumnPropNameInTable="QtyColumn" msprop:Generator_UserColumnName="Qty" type="xs:string" minOccurs="0" />
+              <xs:element name="Price" msprop:Generator_ColumnVarNameInTable="columnPrice" msprop:Generator_ColumnPropNameInRow="Price" msprop:Generator_ColumnPropNameInTable="PriceColumn" msprop:Generator_UserColumnName="Price" type="xs:string" minOccurs="0" />
+              <xs:element name="Amount" msprop:Generator_ColumnVarNameInTable="columnAmount" msprop:Generator_ColumnPropNameInRow="Amount" msprop:Generator_ColumnPropNameInTable="AmountColumn" msprop:Generator_UserColumnName="Amount" type="xs:string" minOccurs="0" />
+              <xs:element name="Discount" msprop:Generator_ColumnVarNameInTable="columnDiscount" msprop:Generator_ColumnPropNameInRow="Discount" msprop:Generator_ColumnPropNameInTable="DiscountColumn" msprop:Generator_UserColumnName="Discount" type="xs:string" minOccurs="0" />
+              <xs:element name="subtotal" msprop:Generator_ColumnVarNameInTable="columnsubtotal" msprop:Generator_ColumnPropNameInRow="subtotal" msprop:Generator_ColumnPropNameInTable="subtotalColumn" msprop:Generator_UserColumnName="subtotal" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

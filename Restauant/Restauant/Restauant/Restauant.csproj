@@ -1,0 +1,727 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{56AE2A8B-A5AC-4DD7-9730-1E1FEE180490}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Restauant</RootNamespace>
+    <AssemblyName>Restauant</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>false</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>6F09A0A67AE8CB163683A36E38EDD3206F48130F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Restauant_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addDiscount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addDiscount.Designer.cs">
+      <DependentUpon>addDiscount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllReport.Designer.cs">
+      <DependentUpon>AllReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bookTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bookTable.Designer.cs">
+      <DependentUpon>bookTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calulator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calulator.Designer.cs">
+      <DependentUpon>calulator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckOut.Designer.cs">
+      <DependentUpon>CheckOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class\cBooking.cs" />
+    <Compile Include="Class\cCategory.cs" />
+    <Compile Include="Class\cCustomer.cs" />
+    <Compile Include="Class\cDay_end_close.cs" />
+    <Compile Include="Class\cDiscount.cs" />
+    <Compile Include="Class\cExchage.cs" />
+    <Compile Include="Class\cFloor.cs" />
+    <Compile Include="Class\cMenu_Items.cs" />
+    <Compile Include="Class\connection.cs" />
+    <Compile Include="Class\cOrder_detial.cs" />
+    <Compile Include="Class\cPosition.cs" />
+    <Compile Include="Class\cTable.cs" />
+    <Compile Include="Class\cUser.cs" />
+    <Compile Include="Class\insert_invoice.cs" />
+    <Compile Include="Class\login.cs" />
+    <Compile Include="Class\main_function.cs" />
+    <Compile Include="close_asking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="close_asking.Designer.cs">
+      <DependentUpon>close_asking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Config\Configuration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config\Configuration.Designer.cs">
+      <DependentUpon>Configuration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dataset\employee_report_sale.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>employee_report_sale.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dataset\report_by_day.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>report_by_day.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dataset\report_by_item.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>report_by_item.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dataset\sale_detail_today.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sale_detail_today.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dataset\today_report.cs">
+      <DependentUpon>today_report.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dataset\today_report.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>today_report.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Day_end_sale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Day_end_sale.Designer.cs">
+      <DependentUpon>Day_end_sale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="discount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="discount.Designer.cs">
+      <DependentUpon>discount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="discount_insert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="discount_insert.Designer.cs">
+      <DependentUpon>discount_insert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="employee.Designer.cs">
+      <DependentUpon>employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fexchange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fexchange.Designer.cs">
+      <DependentUpon>fexchange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_category.Designer.cs">
+      <DependentUpon>form_category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_floor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_floor.Designer.cs">
+      <DependentUpon>form_floor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_menu.Designer.cs">
+      <DependentUpon>form_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_Table.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_Table.Designer.cs">
+      <DependentUpon>form_Table.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPayment.Designer.cs">
+      <DependentUpon>fPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCategorylist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCategorylist.Designer.cs">
+      <DependentUpon>frmCategorylist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCode.Designer.cs">
+      <DependentUpon>frmCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_custom_order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_custom_order.Designer.cs">
+      <DependentUpon>frm_custom_order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fThankyou.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fThankyou.Designer.cs">
+      <DependentUpon>fThankyou.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory.Designer.cs">
+      <DependentUpon>Inventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="messange\voidInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="messange\voidInvoice.Designer.cs">
+      <DependentUpon>voidInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewCustomer.Designer.cs">
+      <DependentUpon>NewCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewOrder.Designer.cs">
+      <DependentUpon>NewOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="POS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="POS.Designer.cs">
+      <DependentUpon>POS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="position.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="position.Designer.cs">
+      <DependentUpon>position.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product_Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product_Category.Designer.cs">
+      <DependentUpon>Product_Category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="dataset\invoice.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>invoice.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="report\Advance_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report\Advance_Report.Designer.cs">
+      <DependentUpon>Advance_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\employee_report_sale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report\employee_report_sale.Designer.cs">
+      <DependentUpon>employee_report_sale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\printInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report\printInvoice.Designer.cs">
+      <DependentUpon>printInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\product_report_sale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report\product_report_sale.Designer.cs">
+      <DependentUpon>product_report_sale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\report_by_day.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report\report_by_day.Designer.cs">
+      <DependentUpon>report_by_day.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\report_by_item.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report\report_by_item.Designer.cs">
+      <DependentUpon>report_by_item.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report\sale_detail_today.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report\sale_detail_today.Designer.cs">
+      <DependentUpon>sale_detail_today.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Suppliyer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suppliyer.Designer.cs">
+      <DependentUpon>Suppliyer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestButton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestButton.Designer.cs">
+      <DependentUpon>TestButton.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addDiscount.resx">
+      <DependentUpon>addDiscount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllReport.resx">
+      <DependentUpon>AllReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bookTable.resx">
+      <DependentUpon>bookTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calulator.resx">
+      <DependentUpon>calulator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckOut.resx">
+      <DependentUpon>CheckOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="close_asking.resx">
+      <DependentUpon>close_asking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config\Configuration.resx">
+      <DependentUpon>Configuration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Day_end_sale.resx">
+      <DependentUpon>Day_end_sale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="discount.resx">
+      <DependentUpon>discount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="discount_insert.resx">
+      <DependentUpon>discount_insert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="employee.resx">
+      <DependentUpon>employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fexchange.resx">
+      <DependentUpon>fexchange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_category.resx">
+      <DependentUpon>form_category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_floor.resx">
+      <DependentUpon>form_floor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_menu.resx">
+      <DependentUpon>form_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_Table.resx">
+      <DependentUpon>form_Table.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fPayment.resx">
+      <DependentUpon>fPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCategorylist.resx">
+      <DependentUpon>frmCategorylist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCode.resx">
+      <DependentUpon>frmCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_custom_order.resx">
+      <DependentUpon>frm_custom_order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fThankyou.resx">
+      <DependentUpon>fThankyou.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory.resx">
+      <DependentUpon>Inventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="messange\voidInvoice.resx">
+      <DependentUpon>voidInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewCustomer.resx">
+      <DependentUpon>NewCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewOrder.resx">
+      <DependentUpon>NewOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="POS.resx">
+      <DependentUpon>POS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="position.resx">
+      <DependentUpon>position.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product_Category.resx">
+      <DependentUpon>Product_Category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="report\Advance_Report.resx">
+      <DependentUpon>Advance_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\employee_report_sale.rdlc" />
+    <EmbeddedResource Include="report\employee_report_sale.resx">
+      <DependentUpon>employee_report_sale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\printInvoice.resx">
+      <DependentUpon>printInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\product_report_sale.resx">
+      <DependentUpon>product_report_sale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\report_by_day.rdlc" />
+    <EmbeddedResource Include="report\report_by_day.resx">
+      <DependentUpon>report_by_day.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\report_by_item.rdlc" />
+    <EmbeddedResource Include="report\report_by_item.resx">
+      <DependentUpon>report_by_item.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\report_sale_today.rdlc" />
+    <EmbeddedResource Include="report\sale_detail_today.rdlc" />
+    <EmbeddedResource Include="report\sale_detail_today.resx">
+      <DependentUpon>sale_detail_today.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\sale_invoice.rdlc" />
+    <EmbeddedResource Include="Suppliyer.resx">
+      <DependentUpon>Suppliyer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestButton.resx">
+      <DependentUpon>TestButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="dataset\employee_report_sale.xsc">
+      <DependentUpon>employee_report_sale.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\employee_report_sale.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>employee_report_sale.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dataset\employee_report_sale.xss">
+      <DependentUpon>employee_report_sale.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\report_by_day.xsc">
+      <DependentUpon>report_by_day.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\report_by_day.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>report_by_day.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dataset\report_by_day.xss">
+      <DependentUpon>report_by_day.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\report_by_item.xsc">
+      <DependentUpon>report_by_item.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\report_by_item.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>report_by_item.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dataset\report_by_item.xss">
+      <DependentUpon>report_by_item.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\sale_detail_today.xsc">
+      <DependentUpon>sale_detail_today.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\sale_detail_today.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>sale_detail_today.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dataset\sale_detail_today.xss">
+      <DependentUpon>sale_detail_today.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\today_report.xsc">
+      <DependentUpon>today_report.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\today_report.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>today_report.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dataset\today_report.xss">
+      <DependentUpon>today_report.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Restauant_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="dataset\invoice.xsc">
+      <DependentUpon>invoice.xsd</DependentUpon>
+    </None>
+    <None Include="dataset\invoice.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>invoice.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dataset\invoice.xss">
+      <DependentUpon>invoice.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\dinner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xp_blueoff.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ltblue.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dust.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xp_redoff.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\package.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-Add User Male-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TableSelectRow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_table.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\email.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Household-Table-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Household-Table-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zoom-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menusep1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xp_purpleon.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_view-headline_326720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_ic_view_module_48px_352205.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-1-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\strawberries.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\passion.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Finance-Pos-Terminal-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_alert_56068.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page-script-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\White-Background-Wallpapers-1920x1080-9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logocoffee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coffee_Clipart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Marketplace_Patio_Dining_Set-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginform.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_print_54447.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Contets\icon_pos.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\Apps-session-suspend-icon.png" />
+    <None Include="Resources\Apps-date-icon.png" />
+    <None Include="Resources\calendar-icon.png" />
+    <None Include="Resources\shopping-bag-icon.png" />
+    <None Include="Resources\banner.png" />
+    <None Include="Resources\if_bag_65775.png" />
+    <None Include="Resources\30459-200.png" />
+    <None Include="Resources\Apps-Dialog-Logout-icon.png" />
+    <None Include="Resources\640px-5dollarbill.png" />
+    <None Include="Resources\10000_Riel1 %281%29.png" />
+    <None Include="Resources\money-icon %281%29.png" />
+    <None Include="Resources\money-icon.png" />
+    <None Include="Resources\Actions-dialog-cancel-icon.png" />
+    <None Include="Resources\Ok-icon.png" />
+    <None Include="Resources\payment-icon1.png" />
+    <None Include="Resources\Order-history-icon.png" />
+    <None Include="Resources\Preview.png" />
+    <None Include="Resources\finger-pointer-icon.png" />
+    <None Include="Resources\if_print_56096.png" />
+    <None Include="Resources\payment-icon.png" />
+    <None Include="Resources\if_icon-25-one-finger-tap-hold_315296%281%29.png" />
+    <None Include="Resources\if_icon-25-one-finger-tap-hold_315296.png" />
+    <None Include="Resources\tap_hold-128.png" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\logo_coffe_shop.jpg" />
+    <None Include="Resources\xp_1redoff.gif" />
+    <None Include="Resources\point_orange.gif" />
+    <None Include="Resources\Untitled-1.png" />
+    <None Include="Resources\welcome.png" />
+    <None Include="Resources\xp_greenon.gif" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
